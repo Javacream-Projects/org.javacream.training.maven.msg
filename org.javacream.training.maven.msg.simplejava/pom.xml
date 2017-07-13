@@ -3,10 +3,10 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.javacream.training.maven.msg</groupId>
 	<artifactId>org.javacream.training.maven.msg.simplejava</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
 	<properties>
 		<java.build.version>1.8</java.build.version>
 	</properties>
-	<version>0.0.1-SNAPSHOT</version>
 
 	<build>
 		<plugins>
